@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Security Identity Alliance
 
-You can use the [editor on GitHub](https://github.com/SecurityIdentityAlliance/securityidentityalliance.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![SIA Logo](/images/sia_logo.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Security Identity Alliance
 
-### Markdown
+Secure Identity Alliance is dedicated to supporting the provision of legal, trusted identity for all, and to drive the development of inclusive digital services necessary for sustainable, worldwide economic growth and prosperity.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Click here to read more or visit our official website: https://secureidentityalliance.org/
 
-```markdown
-Syntax highlighted code block
+## The Open Source API project
 
-# Header 1
-## Header 2
-### Header 3
+### Presentation
 
-- Bulleted
-- List
+The goal of SIA's Open Source API is to assure Interoperability and Harmonization for Sovereign ID Programs, among civil registration and civil identification registries – independent of technology, solution architecture or vendor.
 
-1. Numbered
-2. List
+The conception and development of this API is fully open, read next chapter to learn how to contribute.
 
-**Bold** and _Italic_ and `Code` text
+### How to contribute
 
-[Link](url) and ![Image](src)
-```
+#### Open Source Policy
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+SIA has provided a guide to present its Open Source Policy, describing rights and duties of each member. You must read it first.
+* [SIA Open Source Policy (pdf)]
 
-### Jekyll Themes
+#### Requesting for participation
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SecurityIdentityAlliance/securityidentityalliance.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can download a template letter that you must fill and return to be granted on the project:
+* [Letter of undertaking for my participation in the Open Source software projet (odt)]
+* [Letter of undertaking for my participation in the Open Source software projet (docx)]
