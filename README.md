@@ -1,7 +1,3 @@
----
-title: Security Identity Alliance
----
-
 ## About Security Identity Alliance
 
 ![SIA Logo](/images/sia_logo.png)
