@@ -1,4 +1,4 @@
-## About Security Identity Alliance
+## Security Identity Alliance
 
 ![SIA Logo](/images/sia_logo.png)
 
@@ -17,10 +17,13 @@ The conception and development of this API is fully open, read next chapter to l
 ### Open Source Policy
 
 SIA has provided a guide to present its Open Source Policy, describing rights and duties of each member. You must read it first.
-* [SIA Open Source Policy (pdf)]
+
+[SIA Open Source Policy (pdf)](/docs/18-09-17-SIA-Open-Source-Policy.pdf)
 
 ### Requesting for participation
 
-You can download a template letter that you must fill and return to be granted on the project:
-* [Letter of undertaking for my participation in the Open Source software projet (odt)]
-* [Letter of undertaking for my participation in the Open Source software projet (docx)]
+You can download a template letter that you must fill and return to be granted on the project.
+
+[Letter of undertaking for my participation in the Open Source software projet (odt)](/docs/18-09-17-LETTER OF UNDERTAKING FOR MY PARTICIPATION IN THE OPEN SOURCE SOFTWARE PROJECT.odt)
+
+[Letter of undertaking for my participation in the Open Source software projet (docx)](/docs/18-09-17-LETTER OF UNDERTAKING FOR MY PARTICIPATION IN THE OPEN SOURCE SOFTWARE PROJECT.docx)
