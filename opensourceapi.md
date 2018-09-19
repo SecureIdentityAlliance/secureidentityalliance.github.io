@@ -9,7 +9,7 @@ Citizens around the world depend on government issued identities to prove who th
 
 The ability to uniquely identify individuals and reliable authenticate identity is a key enabler for accelerating progress toward achieving the UN’s 2030 Agenda for Sustainable Development. 
 
-[Picture 1](/images/opensourceapi_picture1.jpg)
+![Picture 1](/images/opensourceapi_picture1.jpg)
 
 Indeed, robust and reliable ID systems generate tangible benefits across a range of areas – everything from the provision of the political, social and economic services every citizen has the right to expect, to improving national security and enabling new, more efficient ways for government and business to reach and serve the population.
 
@@ -24,7 +24,7 @@ Many of today’s national ID systems are composed of scattered registries that 
 * Civil Identification – which often includes biometrics and is the basis for a national ID card.
 * Functional systems and registers – such a voters’ rolls, land registry, passport, vehicle registry, residence registry, education, health, benefits, police and judiciary.
 
-[Picture 2](/images/opensourceapi_picture2.jpg)
+![Picture 2](/images/opensourceapi_picture2.jpg)
 
 But bringing these scattered registries together in a cost-effective and sustainable manner is a not inconsiderable task.
 
@@ -53,7 +53,7 @@ Supported by all major ID vendors, the Open Source API makes it possible for gov
 
 _“The importance of initiatives of this type cannot be underestimated,” confirms Dr Joseph Atick, Executive Chairman of the ID4Africa Movement. “Governments and implementing bodies must be free to select the most appropriate solutions, without commercial or technical restrictions. The SIA’s Open Source API is a key enabler and a major step towards harmonizing identity schemes across Africa.”_
 
-[Picture 3](/images/opensourceapi_picture3.jpg)
+![Picture 3](/images/opensourceapi_picture3.jpg)
 
 [Back to homepage](./)
 
