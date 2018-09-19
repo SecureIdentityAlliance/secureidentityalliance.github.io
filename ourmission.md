@@ -3,6 +3,8 @@ title: Our mission
 layout: default
 ---
 
+## Our mission
+
 Secure Identity Alliance is dedicated to supporting the provision of legal, trusted identity for all, and to drive the development of inclusive digital services necessary for sustainable, worldwide economic growth and prosperity.
 
 We believe legal, trusted identity is the cornerstone of rights protection, social inclusion and digital economic development - and the access point to a wide range of essential public and private services.
