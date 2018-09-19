@@ -1,5 +1,6 @@
 ---
 title: Our mission
+layout: default
 ---
 
 Secure Identity Alliance is dedicated to supporting the provision of legal, trusted identity for all, and to drive the development of inclusive digital services necessary for sustainable, worldwide economic growth and prosperity.
@@ -22,5 +23,5 @@ Over 85% of the world’s population is covered through multiple applications by
 
 Our members have committed to the Secure Identity Alliance’s Code of Conduct.
 
-[Back to homepage](/)
+[Back to homepage](./)
 
