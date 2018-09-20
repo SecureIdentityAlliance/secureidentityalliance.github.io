@@ -53,7 +53,5 @@ Supported by all major ID vendors, the Open Source API makes it possible for gov
 
 _“The importance of initiatives of this type cannot be underestimated,” confirms Dr Joseph Atick, Executive Chairman of the ID4Africa Movement. “Governments and implementing bodies must be free to select the most appropriate solutions, without commercial or technical restrictions. The SIA’s Open Source API is a key enabler and a major step towards harmonizing identity schemes across Africa.”_
 
-![Picture 3](/images/opensourceapi_picture3.jpg)
-
 [Back to homepage](./)
 
