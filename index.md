@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## Security Identity Alliance
+## Secure Identity Alliance
 
 ![SIA Logo](/images/sia_logo.png)
 
-Security Identity Alliance is dedicated to supporting the provision of legal, trusted identity for all, and to drive the development of inclusive digital services necessary for sustainable, worldwide economic growth and prosperity.
+Secure Identity Alliance is dedicated to supporting the provision of legal, trusted identity for all, and to drive the development of inclusive digital services necessary for sustainable, worldwide economic growth and prosperity.
 
 [Click here](/ourmission.html) to read more or visit our official website: [https://secureidentityalliance.org/](https://secureidentityalliance.org/).
 
