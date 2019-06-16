@@ -1,57 +1,54 @@
 ---
-title: SIA's Open Source API
+title: The OSIA Initiative
 layout: default
 ---
 
-## SIA's Open Source API
+## The OSIA Initiative
 
-Citizens around the world depend on government issued identities to prove who they are and gain access to vital services, including healthcare, social protection, education and finance. 
+Target #16.9 of the UN Sustainable Development Goals is to “provide legal identity for all, including birth registration” by the year 2030. But there’s a major barrier: the lack of vendor/provider and technology neutrality – commonly known as “vendor lock-in”.
 
-The ability to uniquely identify individuals and reliable authenticate identity is a key enabler for accelerating progress toward achieving the UN’s 2030 Agenda for Sustainable Development. 
+Through Open Standards, the global identity industry has come together to deliver a simple, financially viable solution to vendor dependency: the OSIA initiative.
 
 ![Picture 1](/images/opensourceapi_picture1.jpg)
 
-Indeed, robust and reliable ID systems generate tangible benefits across a range of areas – everything from the provision of the political, social and economic services every citizen has the right to expect, to improving national security and enabling new, more efficient ways for government and business to reach and serve the population.
+The OSIA initiative has been created for the public good to enable seamless connectivity between all components of the identity management ecosystem – independent of technology, solution architecture or vendor.
 
-It is therefore crucial that governments can ensure citizens are the same person across all their registries and issuing agencies, and that an individual’s data – or attributes – are up-to-date. Doing so protects the individual against the risk of identity theft, and state agencies against fraud.
+Now, governments around the world can exert full control over their national identity programs – to better protect citizens and their civil rights, to deliver equality of access to economic and social services, and to achieve their national development agendas.
 
-It is this imperative that’s currently driving governments around the globe to rollout national ID systems in which multiple ID registries and systems, serving different functions, operate together as a cohesive whole.
+### 1. Adopting an open standards approach
 
-### 1. The ID harmonization challenge – the need for technical standards
+An elegant solution to a complex problem, OSIA provides a simple, open standards-based connectivity layer between all key components and systems within the identity ecosystem. So everything works together – seamlessly.
 
-Many of today’s national ID systems are composed of scattered registries that perform different functions:
-* Civil Registration – which manages vital events such as live births, partnerships, separation and deaths, and includes key biographic information about an individual.
-* Civil Identification – which often includes biometrics and is the basis for a national ID card.
-* Functional systems and registers – such a voters’ rolls, land registry, passport, vehicle registry, residence registry, education, health, benefits, police and judiciary.
+The OSIA Initiative is vendor and technology neutral. It protects investments today and tomorrow, and forever eliminates issues of supplier dependency. With OSIA governments are free to select the components they need, from the suppliers they choose – without fear of lock in.
 
-![Picture 2](/images/opensourceapi_picture2.jpg)
+And because OSIA operates at the interface layer, interoperability is assured without the need to rearchitect environments or rebuild solutions from the ground up. Components are simply swapped in and out as the use case demands – from best-of-breed options already available on the market.
 
-But bringing these scattered registries together in a cost-effective and sustainable manner is a not inconsiderable task.
+This real-world approach dramatically reduces operational and financial risk, increases the effectiveness of existing identity ecosystems, and rapidly moves government initiatives from proof of concept to live environments.
 
-Frequently, the databases that underpin these individual systems are not interoperable – making it impossible to exchange, consult or update data between systems and hindering the development of cohesive ID ecosystems.
+### 2. OSIA project scope
 
-With no standardized way to connect registries, identity system vendors often develop their own ad hoc interfaces, based on proprietary technology. It’s an approach that creates vendor ‘lock-in’ scenarios that potentially leave governments with limited options should they need to evolve their ID ecosystems.
+OSIA provides a simple, open standards-based connectivity layer between all key components within the national identity system. Components can simply be swapped in and out or added to an existing ecosystem as the use case demands.
 
-This has proved particularly challenging for those tasked with delivering national ID schemes in the developing world, where, governments often face a stark choice: abandon existing legacy investments and start again from scratch.
+The OSIA scope is as follows:
 
-Making it both complex and cost-prohibitive to progress towards the UN’s SDG goal of empowering citizens and promoting peaceful and inclusive societies by providing universal legal identity to all.
+#### Addressing the lack of common definitions within the ID ecosystem
 
-### 2. Open Source API – the pathway to harmonization
+The components of ID ecosystems (civil registry, population registry, biometric identification system etc.) are functionally incompatible due to the absence of a common definition/understanding of broader functionalities and scope.
 
-To address this issue, the SIA – a not-for-profit association supported by the world’s leading identity providers - is developing an Open Source Application Program Interface (API) that enables otherwise non-compatible ID systems to ‘talk’ to one another.
+The first step has been to formalize definitions, scope and main functionalities of each component within the identity ecosystem.
 
-Resolving the interoperability and data sharing challenges created by the current lack of universal technical standards, the Open Source API is:
-* Open source and will be published in GitHub – making it available to all
-* Vendor neutral – developed by a consortium of vendors, it will be maintained via a collaborative and consensus-driven process
-* An architecture-neutral solution that preserves legacy systems – the API operates over the top of existing repositories, so governments are no longer obliged to discard existing ID solutions
+#### Creating a standardized, open interface
+
+The second step has been to create a standardized open interface
+
+This core piece of work develops the standardized data formats and open interface to connect the multiple ecosystem components to ensure seamless interaction of services
 
 ### 3. Towards a sustainable future
 
-The Open Source API initiative ushers in a new era of openness and collaboration between major players in the identity industry that will eliminate the interoperability challenges that have, until now, hampered the evolution of national identity systems. 
+The OSIA initiative ushers in a new era of openness and collaboration between major players in the identity industry that will eliminate the interoperability challenges that have, until now, hampered the evolution of national identity systems.
 
-Supported by all major ID vendors, the Open Source API makes it possible for governments and implementing bodies across the world to invest with confidence. Initiating robust identification platforms for their citizens, preserving the value of existing systems while evolving their environments without fear of vendor lock-in.
+Supported by all major ID vendors, OSIA makes it possible for governments and implementing bodies across the world to invest with confidence. Initiating robust identification platforms for their citizens, preserving the value of existing systems while evolving their environments without fear of vendor lock-in.
 
-_“The importance of initiatives of this type cannot be underestimated,” confirms Dr Joseph Atick, Executive Chairman of the ID4Africa Movement. “Governments and implementing bodies must be free to select the most appropriate solutions, without commercial or technical restrictions. The SIA’s Open Source API is a key enabler and a major step towards harmonizing identity schemes across Africa.”_
+For more information visit [www.osia.io](http://www.osia.io).
 
 [Back to homepage](./)
-
