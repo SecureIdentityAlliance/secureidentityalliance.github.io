@@ -14,7 +14,7 @@ Secure Identity Alliance is dedicated to supporting the provision of legal, trus
 
 The goal of SIA's Open Source API is to assure Interoperability and Harmonization for Sovereign ID Programs, among civil registration and civil identification registries – independent of technology, solution architecture or vendor.
 
-[Click here](/opensourceapi.html) to read more.
+[Click here](/osia.html) to read more.
 
 The conception and development of this API is fully open, read next chapter to learn how to contribute.
 
