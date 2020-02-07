@@ -22,11 +22,11 @@ The conception and development of OSIA is fully open, read next chapter to learn
 
 ## How to contribute
 
-### Open Source Policy
+### Open Source Licensing Terms
 
-SIA has provided a guide to present its Open Source Policy, describing rights and duties of each member. You must read it first.
+SIA has provided a guide to present its Open Source Licensing Terms, describing rights and duties of each member. You must read it first.
 
-[SIA Open Source Policy (pdf)](/docs/18-09-17-SIA-Open-Source-Policy.pdf)
+[SIA Open Source Licensing Terms (pdf)](/docs/20-01-28 SIA-Open-Source-Licensing-Terms.pdf)
 
 ### Requesting for participation
 
